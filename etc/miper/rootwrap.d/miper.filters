@@ -1,0 +1,4 @@
+# miper-rootwrap command filters for miper nodes
+# This file should be owned by (and only-writeable by) the root user
+
+[Filters]
